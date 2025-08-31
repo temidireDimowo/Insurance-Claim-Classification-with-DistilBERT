@@ -1,0 +1,10 @@
+wordcloud
+pandas
+torch
+transformers
+sklearn 
+matplotlib
+wordcloud
+numpy
+random
+accelerate>=0.26.0
